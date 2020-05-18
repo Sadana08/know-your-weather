@@ -1,0 +1,1 @@
+DetectLanguage::setApiKey("bacdb9cd05880ddb2631dbabd81b77ee");
